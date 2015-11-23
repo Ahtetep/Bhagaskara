@@ -1,0 +1,771 @@
+.content {
+    width: 1172px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.homeclass {
+    background: url("../img/venice.jpg") no-repeat center;
+    background-size: 100% 100%;
+    height: 1096px;
+    text-align: center;
+}
+
+.logotext {
+    font-family: existencelight;
+    color: white;
+    letter-spacing: 9px;
+    font-weight: bold;
+    font-size: 90px;
+    display: inline-block;
+}
+
+.color-text {
+    color: #9f449b;
+}
+ .home-text {
+     font-family: LatoWebHairline;
+     color: white;
+     width: 1054px;
+     display: inline-block;
+ }
+
+ .home-text h1 {
+     font-size: 48px;
+ }
+
+ .home-text p {
+     font-size: 24px;
+ }
+
+ .linkhome a {
+     padding: 0 15px;
+ }
+
+ a.logoservices {
+     background: url("../img/services.png");
+     display: inline-block;
+     width: 171px;
+     height: 185px;
+     background-repeat: no-repeat;
+ }
+
+
+a.logoservices:hover {
+    background: url("../img/services-f.png");
+    background-repeat: no-repeat;
+
+}
+
+a.logoportfolio {
+    background: url("../img/portfolio-n.png");
+    display: inline-block;
+    width: 171px;
+    height: 185px;
+    background-repeat: no-repeat;
+    }
+
+
+a.logoportfolio:hover {
+    background: url("../img/portfolio.png");
+    background-repeat: no-repeat;
+
+}
+
+.linkhomecenter {
+    margin-top: 25px;
+}
+
+.linkhomecenter a {
+    padding: 0 15px;
+    display: inline-block;
+}
+
+
+a.logoabout {
+    background: url("../img/about.png");
+    display: inline-block;
+    width: 171px;
+    height: 185px;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+a.logoabout:hover {
+    background: url("../img/about-f.png");
+    background-repeat: no-repeat;
+
+}
+
+a.logoteam {
+    float: left;
+    background: url("../img/team.png");
+    display: inline-block;
+    width: 171px;
+    height: 185px;
+    background-repeat: no-repeat;
+}
+a.logoteam:hover {
+     background: url("../img/team-f.png");
+    background-repeat: no-repeat;
+
+}
+
+a.logoblog {
+    float: right;
+    background: url("../img/blog.png");
+    display: inline-block;
+    width: 171px;
+    height: 185px;
+    background-repeat: no-repeat;
+}
+a.logoblog:hover {
+    background: url("../img/Blog-f.png");
+    background-repeat: no-repeat;
+
+}
+
+a.logocontact {
+    float: right;
+    background: url("../img/contact.png");
+    display: inline-block;
+    width: 171px;
+    height: 185px;
+    background-repeat: no-repeat;
+}
+a.logocontact:hover {
+    background: url("../img/Contact-f.png");
+    background-repeat: no-repeat;
+}
+
+.logodown {
+    display: inline-block;
+    margin-top: 180px
+}
+
+.hrdown {
+    display: inline-block;
+}
+
+hr.linkdown {
+    display: inline-block;
+    border: none;
+    background-color: #948ca3;
+    color: #948ca3;
+    height: 1px;
+    width: 100%;
+}
+
+.navigation .content {
+    height: 141px;
+}
+
+.navigation .content .logotext {
+    font-size: 30px;
+    color: #676767;
+    letter-spacing: 2px;
+    height: 141px;
+    width: 195px;
+}
+
+.navigatorlink {
+    display: inline-block;
+    font-size: 18px;
+    font-family: LatoWebLight;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    height: 141px;
+    width: 765px;
+    margin-left: 150px;
+    font-weight: bold
+}
+
+.navigatorlink a {color: #676767;}
+.navigatorlink a:visited {color:#676767;}
+.navigatorlink a:hover {color:#9f449b;}
+
+.navigatorlink a {
+    text-decoration: none;
+    padding: 0 15px;
+}
+
+.inform {
+    background-color: #eeeeee;
+    height: 791px;
+}
+
+.informlogo div {
+    width: 289px;
+    display: inline-block;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.heart {
+    background: url("../img/heart.png");
+    width: 176px;
+    height: 190px;
+    margin-top: 195px;
+}
+
+.heart:hover {
+    background: url("../img/clear.png");
+}
+
+
+.diamond {
+    background:  url("../img/diamond.png");
+    width: 176px;
+    height: 190px;
+}
+
+.diamond:hover {
+    background: url("../img/clear.png");
+}
+
+.cup {
+    background: url("../img/cup.png");
+    width: 176px;
+    height: 190px;
+}
+
+.cup:hover {
+    background: url("../img/clear.png");
+}
+
+.heart .title-text {
+    margin-top: 230px;
+}
+
+.phone {
+    background: url("../img/phone.png");
+    width: 176px;
+    height: 190px;
+
+}
+
+.phone:hover {
+    background: url("../img/clear.png");
+}
+
+.informtext div {
+    width: 263px;
+    display: inline-block;
+    padding: 0 13px;
+}
+
+
+.title-text {
+    font-family: LatoWebLight;
+    font-size: 24px;
+    text-align: center;
+}
+
+.text {
+    font-family: LatoWebLight;
+    font-size: 16px;
+    line-height: 2;
+    text-align: center;
+    font-weight: bold;
+}
+
+.about-us {
+    background-color: white;
+    height: 1026px;
+}
+
+.aboutuslogo {
+    background: url("../img/about-us.png") 100% 100%;
+    background-position: center;
+    height: 115px;
+    background-repeat: no-repeat;
+    margin-top: 156px;
+}
+
+.textabout {
+    margin-top: 138px;
+    background: url("../img/appliances.png");
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    height: 800px;
+}
+
+.textabout div {
+    float: right;
+    width: 472px;
+}
+
+.textabout .text {
+    text-align: left;
+}
+
+.button {
+    font-family: LatoWebLight;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    letter-spacing: 1px;
+    line-height: 75px;
+    background-color: #9f449b;
+    border-radius: 8px;
+    display: inline-block;
+    padding: 0 30px;
+    text-decoration: none;
+    margin-top: 110px;
+}
+
+.coast {
+    height: 624px;
+    background: url("../img/coast.jpg") no-repeat;
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+}
+
+.coast-img {
+    background: url("../img/study.png") no-repeat center;
+    height: 185px;
+    margin-top: 153px;
+
+}
+
+.coast .text {
+    font-size: 48px;
+    color: white;
+}
+
+.our-team {
+    height: 1067px;
+    background-color: white;
+    width: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: inline-block;
+}
+
+.team-img {
+    background: url("../img/our-team.png") no-repeat center;
+    height: 114px;
+    margin: 153px 0 131px 0;
+}
+
+.our-team .content div {
+    height: 477px;
+    display: inline-block;
+    margin: 156px 15px 117px 15px;
+    width: 355px;
+}
+
+.our-team .content img {
+    padding: 0 10px;
+}
+
+.team-title {
+    font-family: LatoWebBold;
+    font-size: 24px;
+    color: #484848;
+    padding-top: 22px;
+}
+
+.team-text {
+    font-family: LatoWebLight;
+    color: #484848;
+    font-size: 18px;
+    padding-bottom: 32px;
+}
+
+.skills {
+    height: 712px;
+    background-color: white;
+    text-align: center;
+    width: 100%;
+
+}
+
+.our-skills {
+    background: url("../img/ous-skills.png");
+    height: 114px;
+    margin: 120px 0 210px 0;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.rating div {
+    width: 421px;
+    height: 68px;
+    display: inline-block;
+    margin: 51px;
+}
+
+.skills-title {
+    font-family: LatoWebBold;
+    font-size: 22px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #222222;
+    text-align: left;
+    display: inline-block;
+    float: left;
+}
+
+.skills-reting {
+    color: #777777;
+    font-size: 24px;
+    font-family: existencelight;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: right;
+    display: inline-block;
+    float: right;
+}
+
+.services-page {
+    height: 624px;
+    background-image: url("../img/coast.jpg");
+    width: 100%;
+    background-repeat: no-repeat;
+    display: inline-block;
+    text-align: center;
+}
+
+.serv-logo {
+    height: 185px;
+    margin-top: 153px;
+    display: block;
+    text-align: center;
+}
+
+.serv-text {
+    width: 750px;
+    font-family: LatoWebLight;
+    font-size: 48px;
+    color: white;
+    text-align: center;
+    display: inline-block;
+}
+
+.statistics {
+    background-color: #eeeeee;
+    height: 906px;
+    width: 100%;
+    text-align: center;
+}
+
+.stat {
+    display: inline-block;
+}
+
+.stat div {
+    display: inline-block;
+    width: 263px;
+    font-family: LatoWebHairline;
+
+}
+
+.result {
+    font-size: 64px;
+    font-weight: bold;
+    color: #222222;
+}
+
+.result-text {
+    font-size: 16px;
+    color: #777777;
+    font-weight: bold;
+}
+
+.stat-text {
+    margin-top: 100px;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-image: url("../img/circlesmall.png");
+    height: 510px;
+    display: inline-block;
+}
+
+.startext {
+    font-family: LatoWebBold;
+    font-size: 33px;
+    color: #4b4b4b;
+    margin-top: 200px;
+    width: 945px;
+}
+
+.startextdown {
+    color: #777777;
+    font-family: LatoWebBold;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.ourportfolio {
+    height: 1432px;
+    background-color: white;
+    display: inline-block;
+    width: 100%;
+}
+
+.portfoliologo {
+    background: url("../img/our-portfolio.png") center;
+    height: 114px;
+    margin-top: 96px;
+    background-repeat: no-repeat;
+}
+
+.portfoliolink {
+    display: inline-block;
+    text-align: center;
+    background-position: center;
+    width: 100%;
+}
+
+.portfoliolink a {
+    display: inline-block;
+    margin-top: 81px;
+    background-position: center;
+}
+
+.all {
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    font-weight: bold;
+    line-height: 44px;
+    width: 96px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: existencelight;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a.all:hover {
+    background-color: #9f449b;
+    color: white;
+    border: none;
+}
+
+.web {
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    font-weight: bold;
+    line-height: 44px;
+    width: 96px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: existencelight;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a.web:hover {
+    background-color: #9f449b;
+    color: white;
+    border: none;
+}
+
+.apps {
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    font-weight: bold;
+    line-height: 44px;
+    width: 96px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: existencelight;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a.apps:hover {
+    background-color: #9f449b;
+    color: white;
+    border: none;
+}
+
+.icons {
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    font-weight: bold;
+    line-height: 44px;
+    width: 96px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: existencelight;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a.icons:hover {
+    background-color: #9f449b;
+    color: white;
+    border: none;
+}
+
+.gallery {
+    width: 100%;
+    display: inline-block;
+    margin-top: 70px;
+    text-align: center;
+}
+
+.gallery div {
+    display: inline-block;
+    text-align: center;
+    background-position: top;
+    width: 358px;
+    height: 465px;
+    background-repeat: no-repeat;
+    margin: 0 12px;
+}
+
+.cornfield {
+    background: url("../img/cornfield.png");}
+
+.tunnel {
+    background: url("../img/tunnel.png");}
+
+.city {
+    background: url("../img/city.png");}
+
+.river {
+    background: url("../img/river.png");}
+
+.boat {
+    background: url("../img/boat.png");}
+
+.plus {
+    background: url("../img/plus.png");}
+
+.portfoliotext {
+    font-family: LatoWebBold;
+    font-size: 24px;
+    color: #222222;
+    margin-top: 380px;
+}
+
+.portfoliotextdown {
+    font-size: 17px;
+    font-family: LatoWebBold;
+    color: #777777;
+}
+
+.watch {
+    font-family: LatoWebLight;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    letter-spacing: 1px;
+    line-height: 75px;
+    background-color: #9f449b;
+    border-radius: 8px;
+    padding: 0 30px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 58px;
+}
+
+.contactblock {
+    width: 100%;
+    text-align: left;
+    height: 1424px;
+    display: inline-block;
+    background-color: white;
+}
+
+.contactlogo {
+    background: url("../img/get-in-touch.png") no-repeat center;
+    width: 100%;
+    height: 114px;
+    margin-top: 188px;
+}
+
+.form {
+    width: 600px;
+    text-align: left;
+    display: inline-block;
+    margin-top: 173px;
+    height: 620px;
+    float: left;
+}
+
+#your-name {
+    width: 525px;
+    padding: 24px 30px;
+    font-size: 23px;
+    color: #222222;
+}
+
+#your-email {
+    width: 525px;
+    padding: 24px 30px;
+    color: #222222;
+    font-size: 23px;
+
+}
+
+#your-message {
+    width: 525px;
+    height: 280px;
+    padding: 24px 30px;
+    color: #222222;
+    font-size: 23px;
+
+}
+
+input[type="submit"] {
+    font-family: LatoWebLight;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    letter-spacing: 1px;
+    line-height: 75px;
+    background-color: #9f449b;
+    border-radius: 8px;
+    padding: 0 30px;
+}
+
+.contacts {
+    float: right;
+    display: inline-block;
+    width: 530px;
+    height: 620px;
+    text-align: left;
+    margin-top: 173px;
+
+}
+
+.conttext {
+    font-family: LatoWebLight;
+    font-size: 23px;
+    color: #4b4b4b;
+}
+
+.continfo {
+    font-family: LatoWebBold;
+    font-size: 28px;
+    font-weight: bold;
+    color: #222222;
+}
+
+.contacts a {
+    display: inline-block;
+    margin-top: 68px;
+    padding-right: 30px;
+}
+
+.logocont {
+    text-align: center;
+    color: #676767;
+    font-family: existencelight;
+    font-size: 51px;
+    margin-top: 160px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    display: inline-block;
+    width: 100%;
+}
